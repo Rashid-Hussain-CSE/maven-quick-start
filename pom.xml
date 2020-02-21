@@ -3,8 +3,12 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 
 		http://maven.apache.org/maven-v4_0_0.xsd">
+  <properties>
+    <maven.compiler.source>7</maven.compiler.source>
+    <maven.compiler.target>7</maven.compiler.target>
+  </properties>
   <modelVersion>4.0.0</modelVersion>
   <groupId>clinic.programming</groupId>
-  <artifactId>example</artifactId>
+  <artifactId>HelloWorld</artifactId>
   <version>1.0</version>
 </project>
